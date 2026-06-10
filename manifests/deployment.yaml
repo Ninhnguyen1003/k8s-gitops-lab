@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ninhnguyen1003/myapp:latest
+        image: ninhnguyen1003/myapp:155b4e4f2152d6ed9ccf03c4b2ae6d953d89bda6
         ports:
         - containerPort: 8080
